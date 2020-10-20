@@ -1,4 +1,4 @@
-# rust-boilerplate
+# linux-pkgtool
 boilerplate rust.
 
 - [playground](https://play.rust-lang.org/)
