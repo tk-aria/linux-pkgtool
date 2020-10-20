@@ -1,0 +1,13 @@
+{
+    "name": "docker-rust",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "rust-client.rustupPath": "/usr/local/cargo/bin/rustup"
+    },
+    "extensions": [
+        "rust-lang.rust",
+        "vadimcn.vscode-lldb"
+    ]
+}
