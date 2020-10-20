@@ -1,5 +1,5 @@
 {
-    "name": "docker-rust",
+    "name": "linux-pkgtool",
     "context": "..",
     "dockerFile": "Dockerfile",
     "settings": {
