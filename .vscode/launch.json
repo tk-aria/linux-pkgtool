@@ -11,11 +11,11 @@
 			"cargo": {
 				"args": [
 					"build",
-					"--bin=boilerplate-rust",
-					"--package=boilerplate-rust"
+					"--bin=pkgtool",
+					"--package=pkgtool"
 				],
 				"filter": {
-					"name": "boilerplate-rust",
+					"name": "pkgtool",
 					"kind": "bin"
 				}
 			},

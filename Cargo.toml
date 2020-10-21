@@ -2,7 +2,7 @@
 name = "pkgtool"
 version = "0.1.0"
 authors = ["tkaria <tkaria.info@gmail.com>"]
-edition = "2020"
+edition = "2018"
 description = "dpkg manegement tool"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
